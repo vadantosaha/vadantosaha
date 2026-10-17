@@ -29,11 +29,7 @@
 
 ---
 
-###  Contribution Snake Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vadantosaha/vadantosaha/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-</p>
 
 
 ![Snake Animation](https://raw.githubusercontent.com/vadantosaha/vadantosaha/output/github-snake-dark.svg)
