@@ -25,3 +25,5 @@ Passionate about Deep Learning, Neural Networks, Computer Vision, and Generative
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vadantosaha&theme=radical" alt="GitHub Streak" />
 </p>
+
+![Snake Animation](https://raw.githubusercontent.com/vadantosaha/vadantosaha/output/github-snake-dark.svg)
