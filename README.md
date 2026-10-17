@@ -1,12 +1,10 @@
 <div align="center">
 
   <h1>Hi there, I'm Bedanta Saha </h1>
-  <p><strong>Undergraduate Student | Deep Learning & Computer Vision Researcher</strong></p>
+  <p><strong>Undergraduate Student | Deep Learning & Computer Vision Researcher | AI Engineer</strong></p>
 
   <p>
-    <a href="https://github.com/vadantosaha">
-      <img src="https://komarev.com/ghpvc/?username=vadantosaha&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-    </a>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvadantosaha&count_bg=%2338BDF8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true"/>
   </p>
 
 </div>
@@ -21,6 +19,19 @@
 
 ---
 
+###  Special Research & Neural Activity Pulse
+> *A custom telemetry block tracking active experimentation in computer vision and lightweight network optimization.*
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Status%3A+Training+YOLOv11+Custom+Architectures...;Focus%3A+Explainable+AI+(Grad-CAM+%2F+SHAP)+Integration;Domain%3A+Medical+Imaging+%26+Industrial+PCB+Inspection" alt="Typing SVG" />
+</p>
+
+- **Active Weights:** `YOLO` / `Vision Transformers`
+- **Inference Target:** Real-time Edge Devices & Radiographic Diagnostics
+- **Current Pipeline:** Optimizing loss convergence & feature map heatmaps
+
+---
+
 ###  Contribution Streak
 
 <p align="center">
@@ -28,7 +39,6 @@
 </p>
 
 ---
-
 
 
 
