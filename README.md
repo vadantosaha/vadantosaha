@@ -3,9 +3,6 @@
   <h1>Hi there, I'm Bedanta Saha </h1>
   <p><strong>Undergraduate Student | Deep Learning & Computer Vision Researcher | AI Engineer</strong></p>
 
-  <p>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvadantosaha&count_bg=%2338BDF8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true"/>
-  </p>
 
 </div>
 
